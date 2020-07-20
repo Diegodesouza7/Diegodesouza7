@@ -8,5 +8,5 @@
 <h2>Bem vindo ao meu perfil no github 👋</h2>
 
 <li>⚡ Estudante de HTML, CSS, Javascript, NodeJs, React e React-Native</li>
-<li>📚 Atualmente cursando Analise e Desenvolvimento de Sistemas pela Universidade UNIP<li>
+<li>📚 Atualmente cursando Analise e Desenvolvimento de Sistemas pela Universidade UNIP</li>
 <li>😄 Sempre pronto para novos desafios</li>
