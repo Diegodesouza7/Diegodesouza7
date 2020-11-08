@@ -7,6 +7,6 @@
 
 <h2>Bem vindos ao meu perfil no github 👋</h2>
 
-<li>⚡ Estudante de HTML, CSS, Javascript, NodeJs, React e React-Native</li>
+<li>⚡ Estudante de Ciência de dados, Engenharia de dados e Business Intelligence</li>
 <li>📚 Atualmente cursando Analise e Desenvolvimento de Sistemas pela Universidade UNIP</li>
 <li>😄 Sempre pronto para novos desafios</li>
